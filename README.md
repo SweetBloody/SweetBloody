@@ -10,7 +10,7 @@
 ---
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=EF1C26&background=ffffff00&vCenter=true&multiline=true&width=1000&lines=%23+Stats%3A" alt="Typing SVG" />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SweetBloody&theme=blood-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SweetBloody&theme=black-ice)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweetBloody&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
